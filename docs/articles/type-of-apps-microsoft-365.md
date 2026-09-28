@@ -85,3 +85,5 @@ Building apps for Microsoft 365 offers a great opportunity to reach millions of 
 **Principal author**: [Waldek Mastykarz](https://blog.mastykarz.nl)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/type-of-apps-microsoft-365"/>

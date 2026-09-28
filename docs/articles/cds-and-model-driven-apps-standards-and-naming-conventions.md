@@ -54,3 +54,5 @@ Relationship table names should be renamed to `pub_measure_N1_session`.
 Boolean columns are either true or false; yes or no, 1 or 0. They have only two states. Name your boolean columns with a verb, such as `IsActive` or `HasSales`.
 
 ## Model-Driven Apps
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/cds-and-model-driven-apps-standards-and-naming-conventions"/>

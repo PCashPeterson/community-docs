@@ -124,3 +124,5 @@ To find out more about Group naming policies, and to learn to define them, visit
 ---
 
 **Principal author**: [Hugo Bernier](https://www.linkedin.com/in/bernierh)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/information-architecture-site-topology"/>

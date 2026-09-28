@@ -71,3 +71,5 @@ In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminp
 **Principal author**:[Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/identifying-your-sharepoint-champions"/>

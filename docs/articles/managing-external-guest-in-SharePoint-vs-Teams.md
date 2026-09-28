@@ -134,3 +134,5 @@ Follow the guide below to achieve this, as pr. my knowledge you will need Global
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/managing-external-guest-in-SharePoint-vs-Teams"/>

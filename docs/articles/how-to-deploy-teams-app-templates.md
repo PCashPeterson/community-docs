@@ -89,3 +89,5 @@ Time for a happy dance!
 **Principal author**: [LuiseFreese](https://www.linkedin.com/in/LuiseFreese)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/how-to-deploy-teams-app-templates"/>

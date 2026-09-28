@@ -108,3 +108,5 @@ Communication sites offer the following options for navigation:
 ---
 
 Principal author: [Eric Skaggs](https://www.linkedin.com/in/skaggej)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/select-an-effective-navigation-strategy"/>

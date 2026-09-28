@@ -99,3 +99,5 @@ When naming your libraries, points to consider:
 ---
 
 **Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/sharepoint-naming-guidelines"/>

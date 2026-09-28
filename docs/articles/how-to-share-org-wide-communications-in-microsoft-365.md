@@ -130,3 +130,5 @@ To make your org-wide communications more effective, engaging, and actionable, c
 **Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/how-to-share-org-wide-communications-in-microsoft-365"/>

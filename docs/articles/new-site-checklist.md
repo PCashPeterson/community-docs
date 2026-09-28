@@ -157,3 +157,5 @@ The purpose of this guide is to help document the initial setup of a site and pr
 ---
 
 Principal author: [Norm Young](https://www.linkedin.com/in/norm-young)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/new-site-checklist"/>

@@ -166,3 +166,5 @@ Once the unquestioned territory of PowerApps alone, we can now perform some conf
 **Principal author**: [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/list-formatting-101"/>

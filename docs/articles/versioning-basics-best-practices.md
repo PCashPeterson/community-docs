@@ -106,3 +106,5 @@ It's important to note that co-authoring can have an impact on versioning in Sha
 ---
 
 Principal author: [Patrick M Doran](https://www.linkedin.com/in/patrickdoran/)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/versioning-basics-best-practices"/>

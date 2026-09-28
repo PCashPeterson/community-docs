@@ -146,3 +146,4 @@ Having someone explain 'how' to do things in SharePoint will only put users at e
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/why-sharepoint-training-is-important"/>

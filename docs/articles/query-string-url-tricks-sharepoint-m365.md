@@ -269,3 +269,5 @@ If you know of other useful query strings like these, you should consider contri
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/query-string-url-tricks-sharepoint-m365"/>

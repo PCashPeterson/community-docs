@@ -103,3 +103,5 @@ Based on successful experience with other customer engagements, below is a list 
 **Principal author**: [Aaron Rendell](https://www.linkedin.com/in/aaron-rendell/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/defining-a-power-platform-environment-strategy"/>

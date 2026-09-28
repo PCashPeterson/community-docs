@@ -169,3 +169,5 @@ This article has only scratched the surface of what is possible with Microsoft 3
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/how-do-site-columns-become-managed-properties-thus-available-for-search"/>

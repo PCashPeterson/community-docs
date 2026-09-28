@@ -72,3 +72,4 @@ However, if you opt to create a _list column_ you can accomplish the same later.
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/list-column-or-site-column-which-one-to-choose"/>

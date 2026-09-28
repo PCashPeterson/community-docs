@@ -1131,3 +1131,5 @@ No significant changes.
 | Article | Updates by |
 | --- | --- |
 | [Follow Microsoft 365 on Social Media](./articles/microsoft-365-on-social-media.md) | [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/) |
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/CHANGELOG"/>

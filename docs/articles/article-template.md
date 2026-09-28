@@ -35,3 +35,5 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 **Principal author**: [Your Name Here](https://www.linkedin.com/in/YourProfileLink)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/article-template"/>

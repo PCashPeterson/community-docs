@@ -125,3 +125,5 @@ In search results, **Link to a Document** displays the specified name and redire
 **Principal author:** [Brian P. McCullough](https://www.linkedin.com/in/brianpmccullough/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/making-good-technology-decisions--compare-link-news-link-and-link-to-a-document"/>

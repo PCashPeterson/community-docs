@@ -1624,3 +1624,5 @@ Today’s organizations need a new security model that more effectively adapts t
 
 * [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 * [Peter Rising, MVP](https://www.linkedin.com/in/peterrising/)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/glossary"/>

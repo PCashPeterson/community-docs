@@ -196,3 +196,5 @@ As we've seen throughout this article, SharePoint security is not only a matter 
 ---
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/sharepoint-security-a-team-effort"/>

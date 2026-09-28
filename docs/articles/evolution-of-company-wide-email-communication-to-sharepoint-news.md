@@ -84,3 +84,5 @@ Embracing the capabilities in SharePoint news instead of traditional emails to s
 **Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/evolution-of-company-wide-email-communication-to-sharepoint-news"/>

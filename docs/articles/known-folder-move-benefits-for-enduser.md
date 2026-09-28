@@ -57,3 +57,5 @@ Here are few things I've experienced with this feature that might help in case o
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/known-folder-move-benefits-for-enduser"/>

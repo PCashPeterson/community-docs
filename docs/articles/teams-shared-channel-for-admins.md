@@ -98,3 +98,5 @@ Here, you can see your External users with their "ObjectId" and "HomeTenantId".
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/teams-shared-channel-for-admins"/>
