@@ -137,4 +137,4 @@ Use it when you need a SharePoint site but you don't need Microsoft 365 Groups o
 
 **Principal author**: [Susan Hanley, MVP](https://www.linkedin.com/in/susanhanley)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/team-site-or-communication-site"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/team-site-or-communication-site"/>

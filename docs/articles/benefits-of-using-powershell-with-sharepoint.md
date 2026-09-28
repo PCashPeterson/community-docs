@@ -114,4 +114,4 @@ If you live within the Microsoft ecosystem on a daily basis, you will likely use
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/benefits-of-using-powershell-with-sharepoint"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/benefits-of-using-powershell-with-sharepoint"/>

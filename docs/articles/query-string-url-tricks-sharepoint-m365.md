@@ -270,4 +270,4 @@ If you know of other useful query strings like these, you should consider contri
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/query-string-url-tricks-sharepoint-m365"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/query-string-url-tricks-sharepoint-m365"/>

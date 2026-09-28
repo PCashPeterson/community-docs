@@ -118,4 +118,4 @@ The recipient should receive an email with the files attached.
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/power-automate-send-sharepoint-files-as-attachments"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/power-automate-send-sharepoint-files-as-attachments"/>

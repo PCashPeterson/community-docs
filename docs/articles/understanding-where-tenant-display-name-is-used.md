@@ -81,4 +81,4 @@ If you change the organization name, OneDrive Sync will not automatically update
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/understanding-where-tenant-display-name-is-used"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/understanding-where-tenant-display-name-is-used"/>

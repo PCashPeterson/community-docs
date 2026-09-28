@@ -228,4 +228,4 @@ It is essential to continually monitor and review these reports and logs, not on
 
 **Principal author**: [Liam Cleary](https://www.linkedin.com/in/liamcleary)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/basic-security-set-up-for-microsoft-365"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/basic-security-set-up-for-microsoft-365"/>

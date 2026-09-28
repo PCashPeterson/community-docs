@@ -243,4 +243,4 @@ Using Windows Explorer, open the source documents folder:
 
 Principal author: [Norm Young](https://www.linkedin.com/in/norm-young/)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/importing-data"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/importing-data"/>

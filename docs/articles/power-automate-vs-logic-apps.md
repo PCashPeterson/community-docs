@@ -148,4 +148,4 @@ I invite authors with their knowledge on this topic to contribute to this articl
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/power-automate-vs-logic-apps"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/power-automate-vs-logic-apps"/>

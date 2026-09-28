@@ -57,4 +57,4 @@ With Content Types, we can define the business objects which matter to us in our
 
 Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson/)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/what-is-content-type"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/what-is-content-type"/>

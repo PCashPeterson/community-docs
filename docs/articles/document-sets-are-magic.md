@@ -134,4 +134,4 @@ Document Sets enable easy out-of-the-box file organization and automatic classif
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/document-sets-are-magic"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/document-sets-are-magic"/>

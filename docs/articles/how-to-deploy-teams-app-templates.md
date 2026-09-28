@@ -90,4 +90,4 @@ Time for a happy dance!
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/how-to-deploy-teams-app-templates"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/how-to-deploy-teams-app-templates"/>

@@ -72,4 +72,4 @@ In the Admin Portal there are [Usage Reports](https://admin.microsoft.com/Adminp
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/identifying-your-sharepoint-champions"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/identifying-your-sharepoint-champions"/>

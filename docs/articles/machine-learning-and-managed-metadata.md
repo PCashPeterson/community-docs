@@ -110,4 +110,4 @@ Principal author: [Beth Hall](https://www.linkedin.com/in/beth-hall-stm)
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/machine-learning-and-managed-metadata"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/machine-learning-and-managed-metadata"/>

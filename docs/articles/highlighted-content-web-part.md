@@ -387,4 +387,4 @@ The time you invest in learning the HCWP will help you in other areas of the Mic
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/highlighted-content-web-part"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/highlighted-content-web-part"/>

@@ -131,4 +131,4 @@ To make your org-wide communications more effective, engaging, and actionable, c
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/how-to-share-org-wide-communications-in-microsoft-365"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/how-to-share-org-wide-communications-in-microsoft-365"/>

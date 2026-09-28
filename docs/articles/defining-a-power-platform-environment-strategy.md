@@ -104,4 +104,4 @@ Based on successful experience with other customer engagements, below is a list 
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/defining-a-power-platform-environment-strategy"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/defining-a-power-platform-environment-strategy"/>

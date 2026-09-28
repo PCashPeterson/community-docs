@@ -61,4 +61,4 @@ Microsoft is continually releasing new features, your governance plan is changin
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/empowering-your-SharePoint-champions"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/empowering-your-SharePoint-champions"/>

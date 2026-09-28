@@ -55,4 +55,4 @@ Boolean columns are either true or false; yes or no, 1 or 0. They have only two 
 
 ## Model-Driven Apps
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/cds-and-model-driven-apps-standards-and-naming-conventions"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/cds-and-model-driven-apps-standards-and-naming-conventions"/>

@@ -86,4 +86,4 @@ Building apps for Microsoft 365 offers a great opportunity to reach millions of 
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/type-of-apps-microsoft-365"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/type-of-apps-microsoft-365"/>

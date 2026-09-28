@@ -119,4 +119,4 @@ This article is intended as a guide, however if you have suggestions or content 
 
 **Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/intranet-content-sources"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/intranet-content-sources"/>

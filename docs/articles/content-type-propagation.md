@@ -219,4 +219,4 @@ If you don't have the technical resources to make use of "PnP Scripts" to auto p
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/content-type-propagation"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/content-type-propagation"/>

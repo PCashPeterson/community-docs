@@ -36,4 +36,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/article-template"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/article-template"/>

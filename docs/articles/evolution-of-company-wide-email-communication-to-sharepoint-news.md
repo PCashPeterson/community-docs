@@ -85,4 +85,4 @@ Embracing the capabilities in SharePoint news instead of traditional emails to s
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/evolution-of-company-wide-email-communication-to-sharepoint-news"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/evolution-of-company-wide-email-communication-to-sharepoint-news"/>

@@ -89,4 +89,4 @@ Classic search can be used on on-premises farms to implement enterprise-wide sea
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/microsoft-365-search-technologies"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/microsoft-365-search-technologies"/>

@@ -82,4 +82,4 @@ The result of applying a naming convention can be powerful. Observe the immediat
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/microsoft-teams-naming-importance"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/microsoft-teams-naming-importance"/>

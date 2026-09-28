@@ -82,4 +82,4 @@ Here are some important things to understand:
 
 **Principal author**: [Joanne Klein, MVP](https://www.linkedin.com/in/joannecklein)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/auto-apply-retention-labels-in-office-365-using-content-types-and-metadata"/>

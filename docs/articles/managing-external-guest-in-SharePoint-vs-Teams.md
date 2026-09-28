@@ -135,4 +135,4 @@ Follow the guide below to achieve this, as pr. my knowledge you will need Global
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/managing-external-guest-in-SharePoint-vs-Teams"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/managing-external-guest-in-SharePoint-vs-Teams"/>

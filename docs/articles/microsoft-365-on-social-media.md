@@ -156,4 +156,4 @@ The following tags are used in combination with product tags to identify informa
 
 **Principal author**: [Christophe Humbert](https://www.linkedin.com/in/pathtosharepoint/)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/microsoft-365-on-social-media"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/microsoft-365-on-social-media"/>
