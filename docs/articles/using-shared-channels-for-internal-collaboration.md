@@ -91,4 +91,4 @@ The options are confusing to many users. While the choice of 'People' is straigh
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/using-shared-channels-for-internal-collaboration"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/using-shared-channels-for-internal-collaboration"/>

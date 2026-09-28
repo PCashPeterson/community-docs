@@ -170,4 +170,4 @@ This article has only scratched the surface of what is possible with Microsoft 3
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/how-do-site-columns-become-managed-properties-thus-available-for-search"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/how-do-site-columns-become-managed-properties-thus-available-for-search"/>

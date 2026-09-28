@@ -133,4 +133,4 @@ Thanks to these community members for article input: _Adrienne Andrews, Ed Bellm
 
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/government-cloud"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/government-cloud"/>

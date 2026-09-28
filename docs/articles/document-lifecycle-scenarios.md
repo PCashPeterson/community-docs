@@ -60,4 +60,4 @@ The goal with documents like this - perhaps a company policy or regulatory filin
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/document-lifecycle-scenarios"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/document-lifecycle-scenarios"/>

@@ -45,4 +45,4 @@ If you need to keep older revisions, do that in your Team Site. If the revision 
 
 Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/file-naming-intranet"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/file-naming-intranet"/>

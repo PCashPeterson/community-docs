@@ -253,4 +253,4 @@ To see the bigger picture of adoption and how Microsoft 365 can support our digi
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/why-m365-adoption-projects-fail"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/why-m365-adoption-projects-fail"/>

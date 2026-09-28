@@ -88,4 +88,4 @@ To monitor an ongoing Access Review, the Access Review can be opened, and indivi
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/performing-guest-reviews"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/performing-guest-reviews"/>

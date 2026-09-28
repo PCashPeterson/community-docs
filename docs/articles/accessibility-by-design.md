@@ -121,4 +121,4 @@ If we want to give more people a sense of community and belonging, we need to st
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/accessibility-by-design"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/accessibility-by-design"/>

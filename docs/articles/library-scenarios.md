@@ -95,4 +95,4 @@ Example image shown below:
 
 Principal author: [Norm Young](https://www.linkedin.com/in/norm-young/)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/library-scenarios"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/library-scenarios"/>

@@ -233,4 +233,4 @@ For the time being, it is best to select an option that easily integrates (and c
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/which-task-management-option"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/which-task-management-option"/>

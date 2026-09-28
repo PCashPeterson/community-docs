@@ -81,4 +81,4 @@ If you want to get clever, then creating DLP policies that are deployed to speci
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/power-platform-DLP-policies-you-should-be-considering-on-Day-1"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/power-platform-DLP-policies-you-should-be-considering-on-Day-1"/>

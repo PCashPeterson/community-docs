@@ -110,4 +110,4 @@ This article was originally published as a part of the "Microsoft 365 - Making G
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/making-good-technology-decisions--establishing-decision-criteria"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/making-good-technology-decisions--establishing-decision-criteria"/>

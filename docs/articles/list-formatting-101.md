@@ -167,4 +167,4 @@ Once the unquestioned territory of PowerApps alone, we can now perform some conf
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/list-formatting-101"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/list-formatting-101"/>

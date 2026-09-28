@@ -246,4 +246,4 @@ Licensing for this solution isn't covered by Microsoft 365 E3 or E5 subscription
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/should-everyone-create-teams"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/should-everyone-create-teams"/>

@@ -134,4 +134,4 @@ Sometimes little-to-no UX research will be done, and sometimes you won't know ho
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/creating-useful-views-in-lists-libraries"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/creating-useful-views-in-lists-libraries"/>

@@ -95,4 +95,4 @@ Managed Metadata columns depend on the SharePoint Taxonomy service for syndicati
 
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang/)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/information-architecture-managed-metadata-vs-lookup-column"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/information-architecture-managed-metadata-vs-lookup-column"/>

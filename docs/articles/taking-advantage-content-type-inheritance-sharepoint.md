@@ -60,4 +60,4 @@ Pair this good information architecture with the [PnP Modern Search](https://mic
 
 Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/taking-advantage-content-type-inheritance-sharepoint"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/taking-advantage-content-type-inheritance-sharepoint"/>

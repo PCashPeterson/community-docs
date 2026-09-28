@@ -143,4 +143,4 @@ Many related articles are in the works to go into each section in more detail. W
 
 **Principal author**: [Paul Bullock](https://www.linkedin.com/in/pkbullock)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/designing-solution-for-scale"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/designing-solution-for-scale"/>

@@ -99,4 +99,4 @@ Here, you can see your External users with their "ObjectId" and "HomeTenantId".
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/teams-shared-channel-for-admins"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/teams-shared-channel-for-admins"/>

@@ -58,4 +58,4 @@ Here are few things I've experienced with this feature that might help in case o
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/known-folder-move-benefits-for-enduser"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/known-folder-move-benefits-for-enduser"/>

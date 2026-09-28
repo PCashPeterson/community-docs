@@ -87,4 +87,4 @@ Note: This sample opened up bi-directional sharing for all users in both organiz
 
 ---
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/using-shared-channels-for-external-collaboration"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/using-shared-channels-for-external-collaboration"/>

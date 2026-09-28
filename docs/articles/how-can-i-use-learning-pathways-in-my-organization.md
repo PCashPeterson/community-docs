@@ -58,4 +58,4 @@ Learning Pathways is immediately helpful to an organization as it comes with a S
 
 Principal author: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 
-<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/how-can-i-use-learning-pathways-in-my-organization"/>
+<img src="https://m365-visitor-stats.azurewebsites.net/Community-Docs/how-can-i-use-learning-pathways-in-my-organization"/>
