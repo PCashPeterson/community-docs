@@ -88,3 +88,5 @@ Classic search can be used on on-premises farms to implement enterprise-wide sea
 **Principal author**: [David Mehr](https://www.linkedin.com/in/david-mehr-055b46181/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/microsoft-365-search-technologies"/>

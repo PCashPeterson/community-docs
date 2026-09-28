@@ -28,3 +28,5 @@ To keep track of Microsoft 365 Community Docs updates, please follow us:
 ## Have Fun
 
 While we want the content in this repository to be extremely useful, it doesn't need to be dry and flavorless. We want to characterize the feel and joy of getting things done well in addition to the mechanics. Specific examples or analogies can be very useful to make this happen.
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/index"/>

@@ -60,3 +60,5 @@ Microsoft is continually releasing new features, your governance plan is changin
 **Principal author**: [Emily Mancini, MVP, UXMC](https://www.linkedin.com/in/eemancini)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/empowering-your-SharePoint-champions"/>

@@ -147,3 +147,5 @@ In both products, security should always be considered and determine an appropri
 I invite authors with their knowledge on this topic to contribute to this article, sharing their experience.
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/power-automate-vs-logic-apps"/>

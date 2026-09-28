@@ -386,3 +386,5 @@ The time you invest in learning the HCWP will help you in other areas of the Mic
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran). Thanks to Emily Mancini for contributing scenario examples.
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/highlighted-content-web-part"/>

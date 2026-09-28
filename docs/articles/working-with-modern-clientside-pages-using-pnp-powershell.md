@@ -175,3 +175,5 @@ Finally, I would like to thank everyone that has contributed and still contribut
 ------
 
 **Principal author**: [Jimmy Hang, MCT, MCSE: Productivity](https://www.linkedin.com/in/jimmyhang)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/working-with-modern-clientside-pages-using-pnp-powershell"/>

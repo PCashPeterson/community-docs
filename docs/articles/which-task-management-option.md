@@ -232,3 +232,5 @@ For the time being, it is best to select an option that easily integrates (and c
 **Principal author**: [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/which-task-management-option"/>

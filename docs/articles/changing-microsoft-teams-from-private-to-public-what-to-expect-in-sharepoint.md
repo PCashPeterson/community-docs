@@ -72,3 +72,5 @@ Changing the privacy settings should be thoughtfully decided, because Public mea
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/changing-microsoft-teams-from-private-to-public-what-to-expect-in-sharepoint"/>

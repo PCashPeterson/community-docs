@@ -81,3 +81,5 @@ Product names overlap a little, so here are some stories describing common scena
 ---
 
 Principal author: [Patrick M Doran](https://www.linkedin.com/in/patrickdoran/)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/permission-model-differences"/>

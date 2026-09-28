@@ -48,3 +48,5 @@ In other words, if you have a business process you want to support, Site Templat
 ---
 
 Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderson/)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/site-design-life-cycle"/>

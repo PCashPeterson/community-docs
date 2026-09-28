@@ -125,3 +125,4 @@ Filter(Choices([@Innovations].Country), Id in Filter(Choices([@Innovations].'Cou
 
 ------
 
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/working-with-cascading-lists-in-sharepoint-and-powerapps"/>

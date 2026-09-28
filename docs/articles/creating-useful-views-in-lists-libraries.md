@@ -133,3 +133,5 @@ Sometimes little-to-no UX research will be done, and sometimes you won't know ho
 [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/creating-useful-views-in-lists-libraries"/>

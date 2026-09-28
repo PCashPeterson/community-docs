@@ -87,3 +87,5 @@ To monitor an ongoing Access Review, the Access Review can be opened, and indivi
 **Principal author**: [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/performing-guest-reviews"/>

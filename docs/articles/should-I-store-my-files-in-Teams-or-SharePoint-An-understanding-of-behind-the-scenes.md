@@ -93,3 +93,5 @@ Whichever way people prefer is fine. Your power users and content owners may nee
 
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 **Updates**: [Simon Hudson, MVP](https://www.linkedin.com/in/simonjhudson/)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/should-I-store-my-files-in-Teams-or-SharePoint-An-understanding-of-behind-the-scenes"/>

@@ -245,3 +245,5 @@ Licensing for this solution isn't covered by Microsoft 365 E3 or E5 subscription
 **Principal author**: [Luise Freese](https://www.linkedin.com/in/luisefreese/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/should-everyone-create-teams"/>

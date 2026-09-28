@@ -113,3 +113,5 @@ If you live within the Microsoft ecosystem on a daily basis, you will likely use
 **Principal author**: [Veronique Lengelle, MVP](https://www.linkedin.com/in/veronique-lengelle-48a71b31)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/benefits-of-using-powershell-with-sharepoint"/>

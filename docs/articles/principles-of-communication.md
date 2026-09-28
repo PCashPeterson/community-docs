@@ -101,3 +101,5 @@ Communication](https://www.proofhub.com/articles/effective-communication#The_Sev
 ---
 
 Principal author: [Simon Hudson, MVP](<https://www.linkedin.com/in/simonjhudson/>)
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/principles-of-communication"/>

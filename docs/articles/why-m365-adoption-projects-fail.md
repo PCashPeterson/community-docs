@@ -252,3 +252,5 @@ To see the bigger picture of adoption and how Microsoft 365 can support our digi
 **Principal author**: [Luise Freese, MVP](https://www.linkedin.com/in/LuiseFreese)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/why-m365-adoption-projects-fail"/>

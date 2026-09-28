@@ -83,3 +83,5 @@ Principal author: [Marc D Anderson, MVP](https://www.linkedin.com/in/marcanderso
 This article was originally published as a part of the "Microsoft 365 - Making Good Technology Decisions" series, written by Microsoft MVP Marc D. Anderson for [CollabMagazine](https://www.collabmagazine.com/).
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/making-good-technology-decisions--front-end"/>

@@ -211,3 +211,5 @@ The model will work great for years.  Each folder acts as sort of a reset on the
 **Principal author**: [Patrick M. Doran](https://www.linkedin.com/in/PatrickDoran)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/large-lists-large-libraries-in-SharePoint"/>

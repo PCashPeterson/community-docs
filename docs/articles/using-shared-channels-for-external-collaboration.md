@@ -86,3 +86,5 @@ Note: This sample opened up bi-directional sharing for all users in both organiz
 **Principal author**: [David Francoeur](https://www.linkedin.com/in/dfrancoeur/)
 
 ---
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sympmarc/Community-Docs/using-shared-channels-for-external-collaboration"/>
