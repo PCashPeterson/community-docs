@@ -39,13 +39,15 @@ Client-side pages is a big topic. In this article I will cover some real world u
 
 This is the first command we need to know in PnP:
 
+Before connecting, register an Entra ID application in your tenant for PnP PowerShell and get its client ID. Follow the [PnP PowerShell application registration guidance](https://pnp.github.io/powershell/articles/registerapplication), then set `$clientId` to the ID of your application.
+
 ``` powershell
-    Connect-PnPOnline -Url $siteUrl -Interactive
+    Connect-PnPOnline -Url $siteUrl -Interactive -ClientId $clientId
 ```
 
 > [!NOTE]
 > The switch "Interactive" will make sure you can authenticate if your account is configured with [MFA](glossary.md#multi-factor-authentication-mfa), and provides more features.
-> But this requires the tenant admin approval of the "PnP Management Shell" app in Microsoft Entra ID, and it's not easy to get this approval sometimes.
+> Use the client ID for your tenant-specific application registration; the shared "PnP Management Shell" app is no longer available.
 
 After connecting you can start working with the pages you have in the site.
 
@@ -158,7 +160,7 @@ I will then clean the template.xml, by removing all other components that I don'
 To apply the template to a new site, in your script connect to the new site then run [Invoke-PnPSiteTemplate](https://pnp.github.io/powershell/cmdlets/Invoke-PnPSiteTemplate.html) with the template:
 
 ```powershell
-    Connect-PnPOnline -Url https://tenant.sharepoint.com/sites/$newsite -Interactive
+    Connect-PnPOnline -Url https://tenant.sharepoint.com/sites/$newsite -Interactive -ClientId $clientId
 
     Invoke-PnPSiteTemplate -Path "C:\Development\template.xml"
 ```
