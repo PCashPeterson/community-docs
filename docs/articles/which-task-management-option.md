@@ -213,14 +213,6 @@ The reality is there is no single **“best way”** to manage tasks, and we are
 - Expands capabilities pre-project into sales and quotes and post-project into expenses, invoicing and more
 - Requires additional licensing
 
-## Viva Goals
-
-![Viva Goals](images/task-management-options/Tasks13.png)
-
-### Notes - Viva Goals
-
-- Viva Goals will support syncing of tasks from Azure Dev Ops, Project, and Planner to align daily tasks with organizational priorities
-
 ## What Option to Choose
 
 For the time being, it is best to select an option that easily integrates (and communicates) easily with other Microsoft 365 solutions. However, each organization may need to handle tasks differently, based on their needs. The diagram below can be helpful in determining what task management solution to roll out at the personal level, but selecting a solution for enterprise project management or development projects will quite likely need to look beyond the confines of the defined safe space (i.e., the Task Hub).
