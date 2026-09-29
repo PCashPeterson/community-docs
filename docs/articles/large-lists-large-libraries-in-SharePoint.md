@@ -36,14 +36,14 @@ There are couple of myths floating around in the world of SharePoint Lists and L
 
 ## What is the List View Threshold?
 
-When the number of items or documents is so high that SharePoint displays an error instead of the content. For many years this was *5000*.
+The List View Threshold (LVT) is typically 5000 items. It limits how many items certain list operations or queries can process. It is not a maximum list size or a cap on the number of results displayed. SharePoint can throttle or block a query that needs to process more than 5000 items, even if its filters would ultimately return fewer than 5000 results.
 
-Behind the scenes. SharePoint is querying data from a database.  It, like all systems, can do but so much at a time, and the *Item Limit Threshold* is that limit of items that are displayed in a given view.  
+Filtering on indexed columns can help a query narrow the items it needs to process and avoid exceeding the threshold. For more information, see Microsoft's [SharePoint Server boundaries and limits](https://learn.microsoft.com/sharepoint/install/software-boundaries-limits-2019#limits-and-boundaries).
 
 If you've operated sites with SharePoint Lists or Libraries for any amount of time, you or one of your customers will trigger the Item Limit Threshold in a List or Library. Either they've published a 300,000 row Excel spreadsheet as a new List, or they decided Friday afternoon right-before-quitting-time is the perfect time to upload the entire network drive's contents to a single Library. Views break. Sorting and filtering (especially on-premises) fall apart. Users report *broken* sites and missing data.  
 
-> **The Limit is only the View**
-> As a Site Owner, keep in mind that when the threshold is exceeded, it's a problem with presenting the *View* and not the List/Library contents. All the data is still there, it just can't be displayed. Mentally, separate the (Items, Documents) from the presentation (Views) to help you pick the best solution.
+> **The Threshold is not a List Size Limit**
+> As a Site Owner, keep in mind that when a query exceeds the threshold, it's a problem with processing the items needed for the *View* and not the List/Library contents. All the data is still there; the query may not be able to display it. Mentally, separate the (Items, Documents) from the presentation (Views) to help you pick the best solution.
 
 It's easy to check the number of items or documents in a List or Library.  Either look in *Site Contents*, or look in the List/Library Settings.  A blue bar will appear there if the List/Library is getting close to the limit. 
 
@@ -110,7 +110,7 @@ This one gets complex real fast - especially with views for Document Libraries w
 
 Indexing columns - *before the threshold limit is broken* - is the most effective way to mitigate View threshold pain. In an ideal situation, where the user knows the List or Library will be large, you'd index any and all columns you can.
 
-A View that's over the threshold will generally only display if it's filtered by an indexed column *first* in the view, and that filter returns no more than 5000 unique values.
+A View over the threshold will generally only display if it is first filtered by an indexed column that reduces the number of items the query must process below the threshold.
 
 This is done by going to the List or Library settings, choosing the Indexed Columns link, and indexing the columns one by one. You can add up to 20 indexes to a list or library. Choose wisely - what columns would you or your users want to base a view on?
 
