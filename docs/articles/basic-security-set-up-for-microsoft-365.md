@@ -43,7 +43,7 @@ A caveat to using these controls is that if you have custom created Conditional 
 
 To enable the Security Defaults:
 
-1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com) as least a [Security Administrator](/entra/identity/role-based-access-control/permissions-reference#security-administrator) role.
+1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com) with at least the [Conditional Access Administrator](/entra/identity/role-based-access-control/permissions-reference#conditional-access-administrator) role.
 1. Browse to **Identity** > **Overview** > **Properties**.
 1. Select **Manage security defaults**.
 1. Set **Security defaults** to **Enabled**.
@@ -73,18 +73,18 @@ The following list of Security controls and features outlines the **Business and
 
 ### Multi-Factor Authentication
 
-**Risk:** In nearly every Data and Security breach involving a compromised account, simply enabling Multi-Factor Authentication would have blocked the attack. Forcing every authentication request to validate a second factor, such as using an SMS or Token, will limit any malicious actors' ability to use the account.
+**Risk:** Multi-Factor Authentication significantly reduces the risk of account compromise, but it does not stop every attack. Adversary-in-the-middle phishing can bypass some traditional MFA methods, and attackers who steal session tokens ([token theft attack vectors](https://learn.microsoft.com/entra/identity/devices/concept-tokens-microsoft-entra-id#token-theft-attack-vectors)) may access an account without completing MFA again. Treat MFA as one layer of protection rather than a guarantee against account compromise.
 
-**Protection:** Best practice dictates not to use SMS/Text messages where possible, as this has been under attack for a long time and is not as secure as it once was. Require end-users to install an Authentication app on their mobile devices that push the request to the device where they can approve as needed. These applications also provide in-time tokens that last a specific time and are available in situations where push notifications are not appropriate or cannot work.
+**Protection:** Avoid SMS/Text messages where possible, as they are less secure than stronger methods. Authenticator apps can send approval requests to a user's device and provide time-based codes when push notifications are not appropriate or cannot work. Where supported, prefer phishing-resistant methods such as FIDO2 security keys or passkeys.
 
-Multi-Factor Authentication can be explicitly assigned to users or administrators or enforced using Conditional Access Policies. The preferred approach to implementing Conditional Access Policies. These policies provide more granularity when users need to provide the second factor, versus it having to be every time. Administrator Multi-Factor Authentication using Conditional Access Policies can be created and enabled for free, whereas end-user configuration does require every user to have a license that allows this to work.
+Multi-Factor Authentication can be explicitly assigned to users or administrators or enforced using Conditional Access Policies. These policies provide more granularity in when users need to provide a second factor. Conditional Access requires an eligible Microsoft Entra ID license for every user who benefits from the policies, including administrators; this requirement is not limited to end-user policies. See [Conditional Access license requirements](https://learn.microsoft.com/entra/identity/conditional-access/overview#license-requirements).
 
 **How:** To learn how to implement Administrator and User Multi-Factor Conditional Access Policies, use the links below.
 
 * [Enable a Conditional Access Policy for Multi-Factor for Administrator Accounts](/azure/active-directory/conditional-access/howto-conditional-access-policy-admin-mfa#create-a-conditional-access-policy)
 * [Enable a Conditional Access Policy for Multi-Factor for all User Accounts](/azure/active-directory/conditional-access/howto-conditional-access-policy-all-users-mfa#create-a-conditional-access-policy)
 
-**NOTE:** Be aware that adding a single Microsoft Entra ID P1 or P2 (Plan 1 or Plan 2) for an Administrator will enable the features, but not license it for every user.
+**NOTE:** A license assigned to one administrator does not cover other users who benefit from Conditional Access policies.
 
 ### Sign Out Inactive Users Automatically
 
