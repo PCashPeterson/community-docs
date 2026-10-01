@@ -1,6 +1,6 @@
 ---
 title: The Power Platform DLP policies you should be considering on Day 1
-ms.date: 8/17/2020
+ms.date: 2026/10/1
 author: aaronrendell
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -13,7 +13,7 @@ description: "The Power Platform DLP policies you should be considering on Day 1
 ms.collection: M365Community
 ---
 
-# The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
+## The Power Platform Data Loss Prevention (DLP) policies you should be considering on Day 1
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
@@ -67,7 +67,7 @@ Note: DLP policies enforce rules for which connectors can be used together by cl
 
 ## Recommendation
 
-It can get relatively complicated when defining your DLP policies, and certainly a consideration that plays a part of defining your Power Platform Environment Strategy, but my recommendation for a day 1 policy is to block everything you can (Note: you can’t block the Microsoft connectors!) and only allow access where there is a justifiable business reason.
+It can get relatively complicated when defining your DLP policies, and certainly a consideration that plays a part of defining your Power Platform Environment Strategy, but my recommendation for a day 1 policy is to block everything you can and only allow access where there is a justifiable business reason. Note: some Microsoft connectors are non-blockable, but many Microsoft-owned premium connectors can be placed in the Blocked group.[Connector classification and non-blockable connectors.](https://learn.microsoft.com/power-platform/admin/dlp-connector-classification#list-of-connectors-that-you-cant-block)
 
 If you want to get clever, then creating DLP policies that are deployed to specific Power Platform Environments and allow access to a single connector such as DocuSign solely for the purpose of a Power Automate solution that runs on your Contracts Management document management site, would be an option.
 

@@ -13,7 +13,7 @@ description: File Naming on an Intranet
 ms.collection: M365Community
 ---
 
-# File Naming on an Intranet
+## File Naming on an Intranet
 
 [!INCLUDE [content-disclaimer](../includes/content-disclaimer.md)]
 
