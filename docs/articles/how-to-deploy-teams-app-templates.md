@@ -1,6 +1,6 @@
 ---
 title: How to deploy Teams App templates into your tenant
-ms.date: 1/20/2021
+ms.date: 10/02/2026
 author: LuiseFreese
 ms.reviewer: pamgreen
 manager: pamgreen
@@ -74,13 +74,13 @@ and zip this `manifest.json` with `outline.png` and `color.png` from GitHub repo
 
 ## Publish
 
-The easiest way to publish your app is via Microsoft Teams App Studio – but you can also do it with Visual Studio Code Teams Toolkit.
+The easiest way to publish your app to Sign in to [Developer Portal for Teams](https://dev.teams.microsoft.com) and select **Apps** > **Import app**. Choose the `GroupActivities.zip` package you created and select **Import**.
 
-If you choose App Studio, upload your .zip file and select publish and then app catalog.
+After the app is imported, select it and go to **Publish** > **Publish to org**. Select **Publish your app** to submit it to your organization's app catalog. For more information, see [Developer Portal for Teams](https://learn.microsoft.com/microsoftteams/platform/concepts/build-and-test/teams-developer-portal).
 
 If you choose Teams Toolkit, you can see potential error even before trying to publish, and the error/warning notifications give you more detail about what was wrong, while App Studio just returns a ‘Something went wrong.’
 
-![publish.](images/how-to-deploy-teams-app-templates/6publish.gif)
+![Developer Portal for Teams with the Publish to org option.](images/how-to-deploy-teams-app-templates/publish-developer-portal.png)
 
 Time for a happy dance!
 
